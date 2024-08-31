@@ -22,15 +22,16 @@ const productDetails= {
 console.log(products, productDetails);
 
 //Task 3: Assignment Operators
+
 let accountBalance = "1765";
 accountBalance += 638;
-console.log (accountBalance)
+console.log (accountBalance);
 accountBalance -= 256; 
-console.log (accountBalance)
+console.log (accountBalance);
 accountBalance *= 5;
-console.log (accountBalance)
+console.log (accountBalance);
 accountBalance %= 2; 
-console.log (accountBalance)
+console.log (accountBalance);
 
 
 
