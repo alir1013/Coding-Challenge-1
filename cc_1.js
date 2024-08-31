@@ -23,9 +23,14 @@ console.log(products, productDetails);
 
 //Task 3: Assignment Operators
 let accountBalance = 1765
-accountBalance += 638; // Updated Value: 2403
-accountBalance -= 256; //Updated Value: 1509
-accountBalance *= 5; //Updated Value: 8825
-accountBalance %= 2; //Updated Value: 882.5
+accountBalance += 638;
+console.log (accountBalance)
+accountBalance -= 256; 
+console.log (accountBalance)
+accountBalance *= 5;
+console.log (accountBalance)
+accountBalance %= 2; 
+console.log (accountBalance)
+
 
 
