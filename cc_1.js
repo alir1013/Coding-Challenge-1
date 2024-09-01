@@ -22,8 +22,8 @@ const productDetails= {
 console.log(products, productDetails);
 
 //Task 3: Assignment Operators
-
-let accountBalance = "1765";
+let accountBalance = 1765;
+console.log(accountBalance);
 accountBalance += 638;
 console.log ("Updated accountBalance:", accountBalance);
 accountBalance -= 256; 
