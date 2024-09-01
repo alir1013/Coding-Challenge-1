@@ -22,7 +22,7 @@ const productDetails= {
 console.log(products, productDetails);
 
 //Task 3: Assignment Operators
-let accountBalance = 1,765;
+let accountBalance = 1765;
 console.log(accountBalance);
 accountBalance += 638.0;
 console.log ("Updated accountBalance:", accountBalance);
@@ -34,8 +34,8 @@ accountBalance %= 2.0;
 console.log ("Updated accountBalance:",accountBalance);
 
 //Task 4: Comparison Operators 
-let emmployeeScore1= "8";
-let employeeScore2= "5";
+let emmployeeScore1= 8;
+let employeeScore2= 5;
 console.log(employeeScore1 > employeeScore2);
 console.log(employeeScore1< employeeScore2);
 console.log(employeeScore1 >= employeeScore2);
@@ -44,8 +44,8 @@ console.log(employeeScore1 === employeeScore2);
 console.log(employeeScore1 !== employeeScore2);
 
 //Task 5: Logical Operators 
-let hasKeyCard = "true";
-let hasPermission = "true";
+let hasKeyCard = true;
+let hasPermission = true;
 console.log(hasKeyCard && hasPermission);
 console.log(hasKeyCard || hasPermission);
 console.log(!hasKeyCard);
