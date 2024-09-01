@@ -25,13 +25,13 @@ console.log(products, productDetails);
 
 let accountBalance = "1765";
 accountBalance += 638;
-console.log (accountBalance);
+console.log ("Updated accountBalance:", accountBalance);
 accountBalance -= 256; 
-console.log (accountBalance);
+console.log ("Updated accountBalance:",accountBalance);
 accountBalance *= 5;
-console.log (accountBalance);
+console.log ("Updated accountBalance:",accountBalance);
 accountBalance %= 2; 
-console.log (accountBalance);
+console.log ("Updated accountBalance:",accountBalance);
 
 //Task 4: Comparison Operators 
 let emmployeeScore1= "8";
