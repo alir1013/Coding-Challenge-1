@@ -22,15 +22,15 @@ const productDetails= {
 console.log(products, productDetails);
 
 //Task 3: Assignment Operators
-let accountBalance = 1765;
+let accountBalance = 1,765;
 console.log(accountBalance);
-accountBalance += 638;
+accountBalance += 638.0;
 console.log ("Updated accountBalance:", accountBalance);
-accountBalance -= 256; 
+accountBalance -= 256.0; 
 console.log ("Updated accountBalance:",accountBalance);
-accountBalance *= 5;
+accountBalance *= 5.0;
 console.log ("Updated accountBalance:",accountBalance);
-accountBalance %= 2; 
+accountBalance %= 2.0; 
 console.log ("Updated accountBalance:",accountBalance);
 
 //Task 4: Comparison Operators 
