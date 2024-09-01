@@ -33,7 +33,7 @@ console.log (accountBalance);
 accountBalance %= 2; 
 console.log (accountBalance);
 
-//Task 4: 
+//Task 4: Comparison Operators 
 let emmployeeScore1= "8";
 let employeeScore2= "5";
 console.log(employeeScore1 > employeeScore2);
