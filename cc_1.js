@@ -33,5 +33,19 @@ console.log (accountBalance);
 accountBalance %= 2; 
 console.log (accountBalance);
 
+//Task 4: 
+let emmployeeScore1= "8";
+let employeeScore2= "5";
+console.log(employeeScore1 > employeeScore2);
+console.log(employeeScore1< employeeScore2);
+console.log(employeeScore1 >= employeeScore2);
+console.log(employeeScore1 <= employeeScore2);
+console.log(employeeScore1 === employeeScore2);
+console.log(employeeScore1 !== employeeScore2);
+
+
+
+
+
 
 
